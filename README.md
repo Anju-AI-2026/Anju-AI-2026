@@ -10,7 +10,8 @@
 ## 🌱 Currently Learning
 - Python    
 - Engineering Mathmetics
-- English Communication  
+- English Communication
+- Korean Language 
 
 ---
 
