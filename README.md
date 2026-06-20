@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Anjali 👋
 
-<!--
-**Anju-AI-2026/Anju-AI-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Computer Science Student  
+💻 Learning Python & SQL  
+🤖 Interested in AI & Machine Learning  
+🌏 Planning to study abroad  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python  
+- SQL  
+- Linear Algebra  
+- English Communication  
+
+---
+
+## 🧠 Skills
+- Python (beginner projects)  
+- SQL  
+- Problem Solving  
+- OOP basics  
+
+---
+
+## 🎯 Goals
+- Build AI projects  
+- Get internship experience  
+- Learn Machine Learning  
+- Study Computer Science abroad  
+
+---
+
+## 🎨 Fun Facts
+- I like drawing  
+- I enjoy cycling  
+- Favorite color: Black 🖤  
