@@ -1,23 +1,21 @@
 ## Hi, I'm Anjali 👋
 
 🎓 Diploma Computer Science Student  
-💻 Learning Python & SQL  
+💻 Learning Python   
 🤖 Interested in AI & Machine Learning  
 🌏 Planning to study abroad  
 
 ---
 
 ## 🌱 Currently Learning
-- Python  
-- SQL  
-- Linear Algebra  
+- Python    
+- Engineering Mathmetics
 - English Communication  
 
 ---
 
 ## 🧠 Skills
-- Python (beginner projects)  
-- SQL  
+- Python (beginner projects)   
 - Problem Solving  
 - OOP basics  
 
@@ -27,7 +25,7 @@
 - Build AI projects  
 - Get internship experience  
 - Learn Machine Learning  
-- Study Computer Science abroad  
+- Study AI Engineering abroad  
 
 ---
 
